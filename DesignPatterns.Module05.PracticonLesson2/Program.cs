@@ -10,6 +10,7 @@ namespace DesignPatterns.Module05.PracticonLesson2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
